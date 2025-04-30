@@ -17,7 +17,7 @@ The dataset used for training and evaluation is available on [Kaggle](https://ww
 
 The base code was adapted from [this Kaggle notebook](https://www.kaggle.com/code/burakksz/using-mobilenetv3-efficient-computing-94-350).
 
-## ⚙️ Modifications Made
+## Modifications Made
 
 - Added class weights to counter imbalanced dataset.
 - Miscellaneous minor tweaks.
