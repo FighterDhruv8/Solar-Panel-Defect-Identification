@@ -22,4 +22,13 @@ The base code was adapted from [this Kaggle notebook](https://www.kaggle.com/cod
 - Added class weights to counter imbalanced dataset.
 - Miscellaneous minor tweaks.
 
+## Discarded Modifications
+
+The following modifications were tried but discarded due to either not improving the accuracy or decreasing it altogether.
+
+- Learning Rate Scheduler.
+- Unfreezing the last few layers of MobileNetV3Small model.
+- Data Augmentation.
+- Permutations of the above.
+
 This is a personal project made by [@Axy2003](https://github.com/Axy2003), [@Ayush180204](https://github.com/Ayush180204), and I.
